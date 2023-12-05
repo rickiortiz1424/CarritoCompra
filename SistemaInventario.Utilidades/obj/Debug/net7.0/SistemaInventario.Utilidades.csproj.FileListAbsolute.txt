@@ -10,3 +10,15 @@ C:\Users\THE CROSS OF CHRIST\Desktop\SistemaInventario\SistemaInventario.Utilida
 C:\Users\THE CROSS OF CHRIST\Desktop\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\refint\SistemaInventario.Utilidades.dll
 C:\Users\THE CROSS OF CHRIST\Desktop\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.pdb
 C:\Users\THE CROSS OF CHRIST\Desktop\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\ref\SistemaInventario.Utilidades.dll
+D:\block\block\Nueva carpeta\SistemaInventario.Utilidades\bin\Debug\net7.0\SistemaInventario.Utilidades.deps.json
+D:\block\block\Nueva carpeta\SistemaInventario.Utilidades\bin\Debug\net7.0\SistemaInventario.Utilidades.dll
+D:\block\block\Nueva carpeta\SistemaInventario.Utilidades\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
+D:\block\block\Nueva carpeta\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.csproj.AssemblyReference.cache
+D:\block\block\Nueva carpeta\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\block\block\Nueva carpeta\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.AssemblyInfoInputs.cache
+D:\block\block\Nueva carpeta\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.AssemblyInfo.cs
+D:\block\block\Nueva carpeta\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.csproj.CoreCompileInputs.cache
+D:\block\block\Nueva carpeta\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.dll
+D:\block\block\Nueva carpeta\SistemaInventario.Utilidades\obj\Debug\net7.0\refint\SistemaInventario.Utilidades.dll
+D:\block\block\Nueva carpeta\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.pdb
+D:\block\block\Nueva carpeta\SistemaInventario.Utilidades\obj\Debug\net7.0\ref\SistemaInventario.Utilidades.dll

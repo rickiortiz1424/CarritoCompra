@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gdWWXvSvMyO9XJ3V0K2j1/b09R98s05PRDI0MNn+hAmr2v4zoHIQlpJMatfTRVDoy4pBv+tHIZG9C9NVTlsnfA==",
+  "dgSpecHash": "trUGWs64Y9dRqOyCd1MEBT/2Fy5qGwli7G0P7XT/q3tqyaGTtXepVKE4p/UeLk065xbF6TWl/j6E9KiQZHZqAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+  "projectFilePath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\THE CROSS OF CHRIST\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\THE CROSS OF CHRIST\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -762,11 +762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+      "projectUniqueName": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
       "projectName": "SistemaInventario.Utilidades",
-      "projectPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+      "projectPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
       "packagesPath": "C:\\Users\\THE CROSS OF CHRIST\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Utilidades\\obj\\",
+      "outputPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Utilidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\THE CROSS OF CHRIST\\AppData\\Roaming\\NuGet\\NuGet.Config",

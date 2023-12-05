@@ -26,7 +26,7 @@
                                         <label>Nombres</label>
                                     </div>
                                     <div class="col-9">
-                                        <input asp-for="Orden.NombresCliente" type="text" class="form-control" id="nombresId"/>
+                                        <input asp-for="Orden.NombresCliente" type="text" class="form-control" id="nombresId" />
                                     </div>
                                 </div>
                                 <div class="row my-1">
@@ -34,7 +34,7 @@
                                         <label>Telefono</label>
                                     </div>
                                     <div class="col-9">
-                                        <input asp-for="Orden.Telefono" type="text" class="form-control" id="TelefonoId"/>
+                                        <input asp-for="Orden.Telefono" type="text" class="form-control" id="TelefonoId" />
                                     </div>
                                 </div>
                                 <div class="row my-1">
@@ -42,7 +42,7 @@
                                         <label>Direccion</label>
                                     </div>
                                     <div class="col-9">
-                                        <input asp-for="Orden.Direccion" type="text" class="form-control" id="direccionId"/>
+                                        <input asp-for="Orden.Direccion" type="text" class="form-control" id="direccionId" />
                                     </div>
                                 </div>
                                 <div class="row my-1">
@@ -50,7 +50,7 @@
                                         <label>Ciudad</label>
                                     </div>
                                     <div class="col-9">
-                                        <input asp-for="Orden.Cuidad" type="text" class="form-control" id="cuidaId"/>
+                                        <input asp-for="Orden.Cuidad" type="text" class="form-control" id="cuidaId" />
                                     </div>
                                 </div>
                                 <div class="row my-1">
@@ -58,7 +58,7 @@
                                         <label>Pais</label>
                                     </div>
                                     <div class="col-9">
-                                        <input asp-for="Orden.Pais" type="text" class="form-control" id="paisId"/>
+                                        <input asp-for="Orden.Pais" type="text" class="form-control" id="paisId" />
                                     </div>
                                 </div>
                             </div>
@@ -79,7 +79,7 @@
                                     }
 
                                     <li class="list-group-item d-flex justify-content-between bg-light">
-                                        <strong class="text-success">Total (USD)</strong>
+                                        <strong class="text-success">Total (DOP)</strong>
                                         <strong class="text-success">$@(Model.Orden.TotalOrden)</strong>
                                     </li>
                                 </ul>
@@ -90,10 +90,25 @@
                 <div class="card-footer">
                     <div class="row">
                         <div class="col-12 col-md-8 pt-2">
-                            <p class="text-success">Fecha Estimada Para Utilizar su Reserva de Viaje: @DateTime.Now.AddDays(14).ToShortDateString()</p>
+                            @{
+                                // Obtener el número de días seleccionados
+                                int diasSeleccionados = 7; // Puedes cambiar esto según tu lógica de selección de días
+
+                                // Calcular la fecha final sumando los días seleccionados
+                                DateTime fechaInicio = DateTime.Now;
+                                DateTime fechaFinal = fechaInicio.AddDays(diasSeleccionados);
+
+                                // Establecer la hora en 17:00 si la hora actual es posterior a las 5:00 PM
+                                if (DateTime.Now.Hour > 17)
+                                {
+                                   
+                                    fechaFinal = fechaFinal.Date.AddHours(17);
+                                }
+                            }
+
+                            <p class="text-success">Fecha y Hora Estimada Para Utilizar su Reserva de Viaje: @fechaInicio.ToString("g") hasta @fechaFinal.ToString("g")</p>
                         </div>
                         <div class="col-12 col-md-4">
-
                             <button type="submit" value="Realizar Pedido" class="btn btn-success form-control" id="procederId">Agendar Este Viaje</button>
                         </div>
                     </div>

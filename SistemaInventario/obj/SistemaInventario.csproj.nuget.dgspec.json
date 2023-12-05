@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario\\SistemaInventario.csproj": {}
+    "D:\\block\\block\\Nueva carpeta\\SistemaInventario\\SistemaInventario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
+    "D:\\block\\block\\Nueva carpeta\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+        "projectUniqueName": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
         "projectName": "SistemaInventario.AccesoDatos",
-        "projectPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+        "projectPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\THE CROSS OF CHRIST\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.AccesoDatos\\obj\\",
+        "outputPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\THE CROSS OF CHRIST\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
-                "projectPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
+              "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+                "projectPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
               },
-              "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+              "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+                "projectPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+    "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+        "projectUniqueName": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
         "projectName": "SistemaInventario.Modelos",
-        "projectPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+        "projectPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
         "packagesPath": "C:\\Users\\THE CROSS OF CHRIST\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Modelos\\obj\\",
+        "outputPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\THE CROSS OF CHRIST\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,8 +110,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+              "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+                "projectPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
               }
             }
           }
@@ -155,14 +155,14 @@
         }
       }
     },
-    "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+    "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectUniqueName": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "projectName": "SistemaInventario.Utilidades",
-        "projectPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "packagesPath": "C:\\Users\\THE CROSS OF CHRIST\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Utilidades\\obj\\",
+        "outputPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\THE CROSS OF CHRIST\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -216,14 +216,14 @@
         }
       }
     },
-    "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario\\SistemaInventario.csproj": {
+    "D:\\block\\block\\Nueva carpeta\\SistemaInventario\\SistemaInventario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario\\SistemaInventario.csproj",
+        "projectUniqueName": "D:\\block\\block\\Nueva carpeta\\SistemaInventario\\SistemaInventario.csproj",
         "projectName": "SistemaInventario",
-        "projectPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario\\SistemaInventario.csproj",
+        "projectPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario\\SistemaInventario.csproj",
         "packagesPath": "C:\\Users\\THE CROSS OF CHRIST\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario\\obj\\",
+        "outputPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\THE CROSS OF CHRIST\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -240,14 +240,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
-                "projectPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj"
+              "D:\\block\\block\\Nueva carpeta\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
+                "projectPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj"
               },
-              "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
-                "projectPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
+              "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+                "projectPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
               },
-              "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+              "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+                "projectPath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
               }
             }
           }

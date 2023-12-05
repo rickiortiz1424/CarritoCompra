@@ -5,8 +5,8 @@ using SistemaInventario.AccesoDatos.Repositorio.IRepositorio;
 using SistemaInventario.Modelos;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Linq;
+using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -14,7 +14,9 @@ namespace SistemaInventario.AccesoDatos.Repositorio
 {
     public class KardexInventarioRepositorio : Repositorio<KardexInventario>, IKardexInventarioRepositorio
     {
+
         private readonly ApplicationDbContext _db;
+
         public KardexInventarioRepositorio(ApplicationDbContext db) : base(db)
         {
             _db = db;
@@ -27,12 +29,13 @@ namespace SistemaInventario.AccesoDatos.Repositorio
             if (tipo == "Entrada")
             {
                 KardexInventario kardex = new KardexInventario();
+                kardex.BodegaProductoId = bodegaProductoId;
                 kardex.Tipo = tipo;
                 kardex.Detalle = detalle;
                 kardex.StockAnterior = stockAnterior;
                 kardex.Cantidad = cantidad;
                 kardex.Costo = bodegaProducto.Producto.Costo;
-                kardex.Stock = stockAnterior - cantidad;
+                kardex.Stock = stockAnterior + cantidad;
                 kardex.Total = kardex.Stock * kardex.Costo;
                 kardex.UsuarioAplicacionId = usuarioId;
                 kardex.FechaRegistro = DateTime.Now;
@@ -43,12 +46,13 @@ namespace SistemaInventario.AccesoDatos.Repositorio
             if (tipo == "Salida")
             {
                 KardexInventario kardex = new KardexInventario();
+                kardex.BodegaProductoId = bodegaProductoId;
                 kardex.Tipo = tipo;
                 kardex.Detalle = detalle;
                 kardex.StockAnterior = stockAnterior;
                 kardex.Cantidad = cantidad;
                 kardex.Costo = bodegaProducto.Producto.Costo;
-                kardex.Stock = stockAnterior + cantidad;
+                kardex.Stock = stockAnterior - cantidad;
                 kardex.Total = kardex.Stock * kardex.Costo;
                 kardex.UsuarioAplicacionId = usuarioId;
                 kardex.FechaRegistro = DateTime.Now;

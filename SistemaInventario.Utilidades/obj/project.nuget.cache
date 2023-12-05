@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7OpZ12rp6JgL9kY1ZvAwTwUqUcP1kNWNIlQ1zCuV8JlIS0HvMFjvwidzxDKK/VOXCNUQdbP/rA9T4RbVudrDgA==",
+  "dgSpecHash": "cpJ7fixpLZYlgzooAtlT+282X8zX1OXGwR6oFPiypbeeTFC0BVwTK+DHmFOh3rwRihh9olaSjZImlgJnzhRfNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\THE CROSS OF CHRIST\\Desktop\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+  "projectFilePath": "D:\\block\\block\\Nueva carpeta\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\THE CROSS OF CHRIST\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.3\\microsoft.aspnetcore.cryptography.internal.7.0.3.nupkg.sha512",
     "C:\\Users\\THE CROSS OF CHRIST\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.3\\microsoft.aspnetcore.cryptography.keyderivation.7.0.3.nupkg.sha512",

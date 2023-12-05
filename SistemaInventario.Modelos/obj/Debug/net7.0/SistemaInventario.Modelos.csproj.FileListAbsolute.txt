@@ -13,3 +13,18 @@ C:\Users\THE CROSS OF CHRIST\Desktop\SistemaInventario\SistemaInventario.Modelos
 C:\Users\THE CROSS OF CHRIST\Desktop\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
 C:\Users\THE CROSS OF CHRIST\Desktop\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
 C:\Users\THE CROSS OF CHRIST\Desktop\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\ref\SistemaInventario.Modelos.dll
+D:\block\block\Nueva carpeta\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.deps.json
+D:\block\block\Nueva carpeta\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.dll
+D:\block\block\Nueva carpeta\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.pdb
+D:\block\block\Nueva carpeta\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.dll
+D:\block\block\Nueva carpeta\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
+D:\block\block\Nueva carpeta\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+D:\block\block\Nueva carpeta\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\block\block\Nueva carpeta\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+D:\block\block\Nueva carpeta\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfo.cs
+D:\block\block\Nueva carpeta\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+D:\block\block\Nueva carpeta\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CopyComplete
+D:\block\block\Nueva carpeta\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.dll
+D:\block\block\Nueva carpeta\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
+D:\block\block\Nueva carpeta\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
+D:\block\block\Nueva carpeta\SistemaInventario.Modelos\obj\Debug\net7.0\ref\SistemaInventario.Modelos.dll
